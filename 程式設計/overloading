@@ -1,0 +1,7 @@
+void methed(){}
+int methed(){}
+void methed(int a){}
+void methed(int b){}
+void methed(string s){}
+void methed(int a , String s){}
+void methed(String s , int a){}
