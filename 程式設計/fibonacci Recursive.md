@@ -17,3 +17,5 @@ public class Fibonacci {
 	
 	}
 }
+
+![fibint](https://user-images.githubusercontent.com/71476321/116516905-c8452180-a900-11eb-92c3-b6b92fe699e2.PNG)
