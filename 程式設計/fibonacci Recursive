@@ -1,6 +1,19 @@
-public int fibRec(int n) {
+public class Fibonacci {
+	
+
+	public int fibInt(int n) {
 		if(n <= 1) {
 			return n;
 		}
-		return fibRec(n-1) + fibRec(n-2);
+		return fibInt(n-1) + fibInt(n-2);
 	}
+	
+	
+	
+	public static void main(String args[]) {
+		Fibonacci fib = new Fibonacci();
+		
+		System.out.println(fib.fibInt(5));
+	
+	}
+}
