@@ -20,4 +20,7 @@ static void byRef(Obj p){
 }
 }
 
+![fibint](https://user-images.githubusercontent.com/71476321/116519735-6ab2d400-a904-11eb-9ead-a98e233ae8eb.PNG)
+
+
 
