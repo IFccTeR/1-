@@ -1,5 +1,4 @@
 ---
-
       public int fibint(int n) {
           if(n <= 1) {
             return n;
@@ -14,5 +13,4 @@
           }
           return fib;
         }
-
 ---
