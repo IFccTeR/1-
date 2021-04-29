@@ -1,4 +1,5 @@
-public class Fibonacci {
+
+	public class Fibonacci {
 	
 
 	public int fibInt(int n) {
