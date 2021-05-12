@@ -1,20 +1,52 @@
-# $post 
+#Superglobals
 ---
 
 ---
-# $get
+#$GLOBALS
 ---
 
 ---
-# $server
+#$_SERVER
 ---
 
 ---
-# $cookie
+#$_GET
 ---
 
 ---
-# $session
+#$_POST
+---
+
+---
+#$_FILES
+---
+
+---
+#$_REQUEST
+---
+
+---
+#$_SESSION
+---
+
+---
+#$_ENV
+---
+
+---
+#$_COOKIE
+---
+
+---
+#$http_response_header
+---
+
+---
+#$argc
+---
+
+---
+#$argv
 ---
 
 ---
