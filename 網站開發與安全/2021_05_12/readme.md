@@ -71,3 +71,6 @@
 ---
 
 webgoat
+---
+https://hub.docker.com/r/webgoat/webgoat-8.0/
+---
