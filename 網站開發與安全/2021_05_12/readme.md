@@ -21,8 +21,8 @@ echo $z;
 </body>
 </html>
 ---
-![擷取](https://user-images.githubusercontent.com/71476321/117915576-223de200-b318-11eb-8eba-db45f74aefba.jpg)
-#$_SERVER
+![擷取](https://user-images.githubusercontent.com/71476321/117915696-6a5d0480-b318-11eb-90ff-b02c03ed6bc8.JPG)
+
 ---
 
 ---
