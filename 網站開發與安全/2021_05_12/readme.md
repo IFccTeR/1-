@@ -1,5 +1,20 @@
-$post 
-$get
-$server
-$cookie
-$session
+# $post 
+---
+
+---
+# $get
+---
+
+---
+# $server
+---
+
+---
+# $cookie
+---
+
+---
+# $session
+---
+
+---
