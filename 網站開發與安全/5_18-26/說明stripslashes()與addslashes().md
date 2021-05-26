@@ -35,6 +35,17 @@
     </html>
 
 ---
+# stripslashes
+---
+
+    定義和用法
+    stripslashes()函數刪除由addslashes()函數添加的反斜杠。
+    
+    語法:stripslashes( string )
+    
+    引用:https://www.w3school.com.cn/php/func_string_stripslashes.asp
+---
+
 # addslashes
 ---
 
@@ -47,6 +58,8 @@
     雙引號（"）
     反斜杠（\）
     NULL
+    
+    語法:addslashes(string)
     
     引用:https://www.w3school.com.cn/php/func_string_addslashes.asp
 ---
