@@ -35,3 +35,21 @@
     </html>
 
 ---
+# addslashes
+---
+
+    定義和用法:
+    addslashes() 函數返回在預定義字符之前添加反斜杠的字符串。
+
+    預定義字符是：
+
+    單引號（'）
+    雙引號（"）
+    反斜杠（\）
+    NULL
+
+---
+'''
+
+    https://www.w3school.com.cn/php/func_string_addslashes.asp
+'''
