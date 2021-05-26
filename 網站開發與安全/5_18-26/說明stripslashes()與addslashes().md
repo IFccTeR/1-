@@ -47,9 +47,8 @@
     雙引號（"）
     反斜杠（\）
     NULL
-
+    
+    引用:https://www.w3school.com.cn/php/func_string_addslashes.asp
 ---
-'''
 
-    https://www.w3school.com.cn/php/func_string_addslashes.asp
-'''
+    
