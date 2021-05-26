@@ -1,4 +1,4 @@
-
+---
 <!DOCTYPE HTML >
 
 <html>
@@ -35,6 +35,4 @@ $a = addslashes($str);  //對字串中的特殊字元進行轉義
 
 說明上述程式stripslashes()與addslashes()
 
-寫在底下回覆
-
-記得按讚
+---
