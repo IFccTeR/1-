@@ -38,7 +38,8 @@
 # stripslashes
 ---
 
-    定義和用法
+    定義和用法:
+    
     stripslashes()函數刪除由addslashes()函數添加的反斜杠。
     
     語法:stripslashes( string )
@@ -50,6 +51,7 @@
 ---
 
     定義和用法:
+    
     addslashes() 函數返回在預定義字符之前添加反斜杠的字符串。
 
     預定義字符是：
