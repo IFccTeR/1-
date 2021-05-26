@@ -1,38 +1,37 @@
 ---
-  <!DOCTYPE HTML >
 
-  <html>
+<!DOCTYPE HTML >
 
-  <head>
+<html>
 
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<head>
 
-  <title>應用addcslashes()函數和stripslashes()函數分別對字串進行轉義和還原</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-  </head>
+<title>應用addcslashes()函數和stripslashes()函數分別對字串進行轉義和還原</title>
 
-  <body>
+</head>
 
-  <?php
+<body>
 
-   $str = "select * from tb_book where bookname = 'PHP5從入門到放棄'";
+<?php
 
-   echo $str."<br>";
+ $str = "select * from tb_book where bookname = 'PHP5從入門到放棄'";
 
-  $a = addslashes($str);  //對字串中的特殊字元進行轉義
+ echo $str."<br>";
 
-   echo $a."<br>"; //輸出轉義後的字元
+$a = addslashes($str);  //對字串中的特殊字元進行轉義
 
-   $b = stripslashes($a); //對轉義後的字元進行還原
+ echo $a."<br>"; //輸出轉義後的字元
 
-   echo $b."<br>"; //將字元原義輸出
+ $b = stripslashes($a); //對轉義後的字元進行還原
 
-  ?>
+ echo $b."<br>"; //將字元原義輸出
 
-  </body>
+?>
 
-  </html>
+</body>
 
-  說明上述程式stripslashes()與addslashes()
+</html>
 
 ---
